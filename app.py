@@ -262,7 +262,7 @@ if page == "NFT Marketplaces":
     st.title("Gods Unchained Unique Players")
     st.write("Past 2 months")
     df
-    st.line_chart(df.loc[:,'date','uniqueplayers'])
+    st.line_chart(df)
     
 
 
