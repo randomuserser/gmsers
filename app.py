@@ -34,7 +34,7 @@ if page == "NFT Marketplaces":
   
 
   
-    st.write('IMX : https://immutascan.io/address/0xacb3c6a43d15b907e8433077b6d38ae40936fe2c?tab=0')
+    st.write('IMX : https://immutascan.io/')
     
     st.title('Terra NFT : Random Earth + Knowhere Marketplace')
     url="https://api.flipsidecrypto.com/api/v2/queries/b6a4f795-12eb-4d7c-b76d-ba3af5b6eaac/data/latest"
